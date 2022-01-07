@@ -13,6 +13,7 @@
 		04FBC0D62788CC50002236C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FBC0D42788CC50002236C9 /* Main.storyboard */; };
 		04FBC0D82788CC53002236C9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04FBC0D72788CC53002236C9 /* Assets.xcassets */; };
 		04FBC0DB2788CC53002236C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04FBC0D92788CC53002236C9 /* LaunchScreen.storyboard */; };
+		04FBC0E32788DE43002236C9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04FBC0E22788DE43002236C9 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04FBC0D72788CC53002236C9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04FBC0DA2788CC53002236C9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04FBC0DC2788CC53002236C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04FBC0E22788DE43002236C9 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				04FBC0CE2788CC50002236C9 /* AppDelegate.swift */,
 				04FBC0D02788CC50002236C9 /* SceneDelegate.swift */,
 				04FBC0D22788CC50002236C9 /* ViewController.swift */,
+				04FBC0E22788DE43002236C9 /* LoginViewController.swift */,
 				04FBC0D42788CC50002236C9 /* Main.storyboard */,
 				04FBC0D72788CC53002236C9 /* Assets.xcassets */,
 				04FBC0D92788CC53002236C9 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04FBC0E32788DE43002236C9 /* LoginViewController.swift in Sources */,
 				04FBC0D32788CC50002236C9 /* ViewController.swift in Sources */,
 				04FBC0CF2788CC50002236C9 /* AppDelegate.swift in Sources */,
 				04FBC0D12788CC50002236C9 /* SceneDelegate.swift in Sources */,
